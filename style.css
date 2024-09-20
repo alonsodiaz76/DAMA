@@ -82,10 +82,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .snow .flake:nth-child(1) {
   left: 54%;
-  -webkit-animation: blow 19443ms ease-in infinite;
-          animation: blow 19443ms ease-in infinite;
-  -webkit-animation-delay: 4135ms;
-          animation-delay: 4135ms;
+  -webkit-animation: blow 4000ms ease-in infinite;
+          animation: blow 4000ms ease-in infinite;
+  -webkit-animation-delay: 1000ms;
+          animation-delay: 1000ms;
 }
 .snow .flake:nth-child(2) {
   left: 54%;
